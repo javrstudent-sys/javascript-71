@@ -1,5 +1,6 @@
 /**aqui practicamos varianles y ano usamos var usamos let */
 alert("¡JavaScript conectado correctamente!");
+/* no se recomienda usar alert porque suele bloquear los comandos que siguen de este. */
 console.log("El script funciona.");
 /**! comentario */
 console.log("el pepe");
